@@ -58,6 +58,8 @@ public childItem FindVisualChild<childItem>(DependencyObject obj) where childIte
 
 ```
 
+KB article - [How to get the reference of the control added inside the DataTemplate of the GridTemplateColumn in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12548/how-to-get-the-reference-of-the-control-added-inside-the-datatemplate-of-the)
+
 ## Requirements to run the demo
 
 Visual Studio 2015 and above versions
